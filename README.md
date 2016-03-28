@@ -1,5 +1,5 @@
 # nodejs-on-raspberry
-[Nodejs](http://nodejs.org) *unofficial* packages for arm based raspberry pi.
+[Nodejs](http://nodejs.org) *unofficial* packages for arm based raspberry pi 2.
 
 Nodejs doesn't provide packages for arm any more (last was 0.10.28), so these packages are here
 to allow easy install of recent versions.

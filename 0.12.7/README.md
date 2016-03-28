@@ -1,6 +1,6 @@
-# Nodejs 0.12.7 release for raspberry pi
+# Nodejs 0.12.7 release for raspberry pi 2
 The `.deb` file provides `nodejs` version 0.12.7 and `npm` version 2.11.3. It was 
-build from [0.12.7](http://nodejs.org/dist/v0.12.7/) sources and packaged with [fpm](https://github.com/jordansissel/fpm) :
+build from [0.12.7](http://nodejs.org/dist/v0.12.7/) sources on a pi 2 (raspbian wheezy) and packaged with [fpm](https://github.com/jordansissel/fpm) :
 ```bash
 wget http://nodejs.org/dist/v0.12.7/node-v0.12.7.tar.gz
 tar xvfz node-v0.12.7.tar.gz

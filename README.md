@@ -10,3 +10,6 @@ file that discribes how packages were build and so, how you can do it yourself
 if you are not confortable with unofficial packages. 
 
 Nodejs [licence](https://github.com/nodejs/node/blob/master/LICENSE).
+
+## Update
+With v4.0.0, Nodejs resumes official binaries for arm. You should probably look there.
